@@ -4,7 +4,7 @@
   "description": "Landin page creado a partir de un curso de Platzi",
   "main": "index.js",
   "scripts": {
-    "deply": "gh-pages -d src"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
